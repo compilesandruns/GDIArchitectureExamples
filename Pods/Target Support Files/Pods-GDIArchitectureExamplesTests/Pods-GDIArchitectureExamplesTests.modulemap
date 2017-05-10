@@ -1,0 +1,6 @@
+framework module Pods_GDIArchitectureExamplesTests {
+  umbrella header "Pods-GDIArchitectureExamplesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
